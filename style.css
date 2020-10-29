@@ -1,0 +1,198 @@
+*{ margin: 0; padding: 0; box-sizing: border-box; }
+
+.logo {
+  top: 22px;
+  left: 1677px;
+  width: 124px;
+  height: 55px;
+  background-repeat: no-repeat;
+  background-size: 0% 0%;
+  opacity: 1;
+} 
+
+ul a:hover{
+  color: #000000 !important;
+}
+nav li{
+  text-align: center;
+}
+li > a:after{
+  content: '';
+  display: block;
+  height: 1.5px;
+  background: #000000;
+  transform: scaleX(0);
+  transition: transform .3s;
+}
+li > a:hover:after{
+  transform: scaleX(1);
+  transition: transform .3s;
+}
+.active{
+  color: #000000 !important;
+}
+
+.nav-item a {
+  color: #746E6E!important;
+  font-size: 21px;
+  font-family:'Segoe UI', 'Regular';
+
+}
+
+/* .header * {
+  display: inline; 
+   height: 50px;
+}
+.header ul {
+  padding: 0;
+}
+.header li {
+  margin-left: 20px;
+} */
+/* section {
+  height: 100vh; */
+  /* border: 1px solid black; */
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+} */
+
+
+.glasspot {
+  width: 100%;
+  height: 100vh;
+ text-align: right;
+  background-image: url('./images/glasspot.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.fixer {
+  margin-right: 190px;
+} 
+/* 
+section {
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  } */
+
+.design {
+ margin-top: 271px;
+margin-left: 178px;
+  width: 52vh;
+  height: 45vh;
+ 
+  /* margin-top: 25px;
+  margin-left: 117px; */
+  margin-bottom:12px ;
+  background-image: url(./images/undraw_interior_design_9i70.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.brass {
+  margin-top: 396px;
+
+  margin-left: 250px;
+  width: 1173px;
+  height: 188px;
+  letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal  Segoe UI;
+letter-spacing: 0px;
+color: #999999;
+opacity: 1;
+
+}
+
+.platewall {
+  margin-top: 130px;
+margin-left: 10px;
+width: 1173px;
+height: 188px;
+letter-spacing: var(--unnamed-character-spacing-0);
+font: normal normal normal  Segoe UI;
+letter-spacing: 0px;
+color: #999999;
+opacity: 1;
+}
+.stand {
+  /* margin-top: 167px;
+margin-left: 213px;
+width: 258px;
+height: 371px; */
+
+margin-top: 167px;
+    margin-left: 165px;
+    width: 171px;
+    height: 239px;
+background-image: url(./images/glass\ stand.png);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+
+.left-div {
+width: 960px;
+top: 140px;
+left: 16px;
+font-size: 18px;
+}
+
+ .interior {
+  letter-spacing: 0px;
+  margin-top:120px;
+  margin-right: 343px;
+  margin-bottom: -20px;
+  height: 0px;
+  font-family:'Segoe UI', 'Regular';
+  font-size:22px;
+  text-align: right;
+  color: #000000;
+  opacity: 1;
+}
+
+/* .make {
+  margin-bottom: 45px;
+    margin-right: 103px;
+}
+
+
+
+.simple {
+  top: 458px;
+  left: 1344px;
+  width: 379px;
+  height: 88px;
+  margin-right: 103px;
+}
+
+.but {
+  margin-right: 103px;
+} */
+
+/* .header-section {
+ height: 50px;
+  margin-right: 103px;
+} */
+
+.context {
+margin-top:120px;
+margin-left: 471px;
+margin-bottom: 90px;
+letter-spacing: var(--unnamed-character-spacing-0);
+height: 50px;
+text-align: left;
+font-family:'Segoe UI';
+font-size: 18px;
+letter-spacing: 0px;
+color:#5E5A5A ;
+opacity: 1;
+} 
