@@ -83,6 +83,10 @@ li > a:hover:after{
   opacity: 1;
 }
 
+.fixer {
+  margin-right: 190px;
+} 
+
 .context {
   margin-top:120px;
   margin-left: 471px;
@@ -98,7 +102,7 @@ li > a:hover:after{
 } 
 
 .stand {
-  margin-top: 100px;
+  margin-top: 143px;
   margin-bottom: 200px;
   margin-left: 165px;
   width: 171px;
@@ -108,7 +112,7 @@ li > a:hover:after{
 }
 
 .brass {
-  margin-top: 94px;
+  margin-top: 135px;
   margin-left: -500px;
   width: 1173px;
   height: 188px;
@@ -121,7 +125,7 @@ li > a:hover:after{
 }
 
 .platewall {
-  margin-top: -175px;
+  margin-top: -154px;
   margin-left: 168px;
   width: 1173px;
   height: 188px;
@@ -133,7 +137,7 @@ li > a:hover:after{
 }
 
 .self {
-  margin-top: -180px; 
+  margin-top: -155px; 
   margin-left: -49px;
   width: 171px;
   height: 239px;
@@ -141,4 +145,65 @@ li > a:hover:after{
   background-size: 100% 100%;
 } 
 
+.viji {
+  margin-top: 200px;
+  margin-bottom: 128px;
+  margin-left: 122px;
+  width: 317px;
+  height: 382px;
+  border-radius: 20px;
+  opacity: 1;
+  background: transparent url('img/viji.png') 0% 0% no-repeat padding-box;
+  }
 
+.special {
+ margin-top: 330px;
+ margin-left: 21px;
+ width: 149px;
+ height: 77px;
+}
+
+.rectangle {
+  margin-top: 187px;
+  margin-left: -87px;
+  width: 7px;
+  height: 450px;
+  border: 1px solid #707070;
+  border-radius: 10px;
+  opacity: 1;
+}
+
+.details {
+  margin-top: 255px;
+  margin-left: -346px;
+  text-align: left;
+  letter-spacing: NaNpx;
+  font-size: 30px;
+  opacity: 1;
+}
+
+.place {
+  margin-left:-346px;
+  letter-spacing: NaNpx;
+  font-size: 18px;
+  opacity: 1;
+}
+
+.facebook {
+   margin-top: 60px;
+   margin-left: -380px;
+   width: 70px;
+   height: 37px;
+}
+
+.instagram {
+  margin-left: -359px;
+  width: 36px;
+  height: 34px;
+}
+
+.twitter {
+  margin-left: -359px;
+  width: 36px ;
+  height: 34px;
+}
